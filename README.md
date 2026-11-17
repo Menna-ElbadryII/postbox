@@ -19,8 +19,8 @@ Fetching and displaying all posts from the API.
 
 ### 2. Adding to Favorites
 Tapping the star icon to save posts to favorites.
-![Starred Posts](Screenshots/po3.png)
 ![Starred Posts](Screenshots/po4.png)
+![Starred Posts](Screenshots/po3.png)
 
 ### 3. Favorites Screen
 Viewing all saved favorite posts.
